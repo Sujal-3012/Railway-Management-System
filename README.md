@@ -34,15 +34,7 @@ Screenshots of project :
 
 
 
-
-
-
-Screenshots of tables in mysql
-
-
-
-
-
+Screenshots of tables in mysql :
 
 
 ![train table structure](https://user-images.githubusercontent.com/110303512/208300543-e397abbd-767b-4756-bb0d-e86dfc689ca6.jpg)
